@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "supabase": "supabase",
+    "supabase:send-contact-form:start": "supabase functions serve send-contact-form --env-file .env"
+  },
+  "devDependencies": {
+    "supabase": "^1.27.10"
+  }
+}
