@@ -1,0 +1,15 @@
+{
+  "deno.enable": true,
+  "deno.config": "./deno.json",
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "files.eol": "\n",
+  "editor.renderWhitespace": "none",
+  "editor.lineNumbers": "on",
+  "editor.rulers": [80, 120],
+  "explorer.compactFolders": false,
+  "editor.defaultFormatter": "denoland.vscode-deno",
+  "deno.lint": true,
+  "deno.unstable": false,
+  "[typescript]": { "editor.defaultFormatter": "denoland.vscode-deno" }
+}
